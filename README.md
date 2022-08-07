@@ -4,7 +4,7 @@
 </p>
 <hr/>
 
-# Ukulele Tuner LEDs
+# Light-emitting integrated ukulele tuner
 Ukulele with an integrated light emitting tuner
 
 ## About
@@ -26,5 +26,7 @@ Assuming a basic knowledge of electronics, the connections are very simple. Conn
 ## Using Ukelele Tuner LEDs
 Before inserting the electronics into the ukulele, it is recommended to upload the main.ino sketch and do a test. If everything works correctly, insert all the electronics inside the ukulele, with the microphone pointing to the center hole.
 
+
 To see the construction process and instructions for use, see the video below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkv0iWnMZ8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+[![thumb](https://user-images.githubusercontent.com/2729145/183290124-38bd8b7d-1fdf-4945-a2cd-00a9a4e9f02f.jpg)](https://www.youtube.com/watch?v=tkv0iWnMZ8c)
